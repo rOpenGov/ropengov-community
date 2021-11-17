@@ -8,3 +8,9 @@ Some proposals for common documents:
 
 Possible points for discussion:
 - Coordinating cooperation between different organizations for Open Government Data
+
+
+## Material
+
+ - [rOpenGov slides](https://github.com/rOpenGov/slides)
+ 
